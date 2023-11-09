@@ -1,4 +1,4 @@
-const words = ["give you up", "let you down", "run around", "make you cry"];
+const words = ["Bom Dia", "Boa Noite", "Vamos Kodar", "Hora do Dev"];
 const el = document.querySelector("#typewriter");
 
 const sleepTime = 100;
